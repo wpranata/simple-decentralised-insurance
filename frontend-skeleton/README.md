@@ -4,7 +4,7 @@ This is the skeleton for the front-end of Simple Insurance, created using [React
 
 The code is currently incomplete, riddled with TODOs that you have to finish.
 
-# Starting the Server
+## Starting the Server
 To start the server, just run the command:
 
 ```zsh
