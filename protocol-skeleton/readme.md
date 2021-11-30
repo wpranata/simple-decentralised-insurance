@@ -5,7 +5,7 @@ This is the skeleton for the smart contract development environment (which is ve
 ## What do I Do Here?
 Your job is to ***write, test, and deploy*** the smart contract for Simple Insurance, using the [Hardhat](https://hardhat.org/) framework.
 
-When you're done, you can start developing the (frontend)[../frontend-skeleton].
+When you're done, you can start developing the [frontend](../frontend-skeleton).
 
 |Component|Details|Description|
 | ------------ | ------------ | ------------ |
