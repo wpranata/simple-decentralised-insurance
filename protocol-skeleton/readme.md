@@ -5,6 +5,8 @@ This is the skeleton for the smart contract development environment (which is ve
 ## What do I Do Here?
 Your job is to ***write, test, and deploy*** the smart contract for Simple Insurance, using the [Hardhat](https://hardhat.org/) framework.
 
+When you're done, you can start developing the (frontend)[../frontend-skeleton].
+
 |Component|Details|Description|
 | ------------ | ------------ | ------------ |
 |**Insurance Struct Mapping**|Contains:<br/>`Insurance ID`<br/>`Holder address`<br/>`Coverage amount`<br/>`status enum`|The insurance coverage recorded within the Smart Contract, mapped with an **Integer** as the `Insurance ID`.|
