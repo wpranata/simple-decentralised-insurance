@@ -2,6 +2,8 @@
 
 This is the skeleton for the front-end of Simple Insurance, created using [ReactJS](https://reactjs.org/) Framework.
 
+If you haven't finished the [protocol skeleton](../protocol-skeleton), you should do that first.
+
 
 ## Starting the Server
 
