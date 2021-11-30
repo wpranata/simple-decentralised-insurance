@@ -12,14 +12,14 @@ You need to install [Node.js](https://nodejs.org/en/). In this setup, we will be
 git clone https://github.com/wpranata/simple-decentralised-insurance.git
 ```
 
-2. Install all dependencies within the protocol skeleton:
+2. Install all dependencies within the [protocol skeleton](./protocol-skeleton):
 
 ```zsh
 cd protocol-skeleton
 npm install
 ```
 
-3. Don't forget to do the same thing to the frontend skeleton:
+3. Don't forget to do the same thing to the [frontend skeleton](./frontend-skeleton):
 
 ```zsh
 cd frontend-skeleton
